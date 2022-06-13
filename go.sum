@@ -1,0 +1,4 @@
+github.com/gojp/kana v0.1.0 h1:8bd0WXAObhYpyFA3pF17YImnYyVshw0bcXS+ybNFYQk=
+github.com/gojp/kana v0.1.0/go.mod h1:kWp5hDdJQqnZ2E3SQNQe+iejY63SZ+JdlbnW+qn7vxY=
+github.com/ikawaha/kagome v1.11.2 h1:eCWpLqv5Euqa5JcwkaobUSy6uGM8rwwMw5Su3eRepBI=
+github.com/ikawaha/kagome v1.11.2/go.mod h1:lHwhkGuuWqKWTxeQMppD0EmQAfKbc39QKx9qoWqgo+A=
